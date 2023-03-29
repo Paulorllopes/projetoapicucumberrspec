@@ -1,8 +1,8 @@
 # projetoapicucumberrspec
 
-# A pasta do projeto é rspecWithCucumber, nele existem a pastas tests
+- A pasta do projeto é rspecWithCucumber, nele existem a pastas tests
  
- # Os testes são executados via prompt de comando acessando a pasta tests
+ - Os testes são executados via prompt de comando acessando a pasta tests
   
   # Na pasta tests existem as pastas features, services e os arquivos Gemfile e Gemfile.lock
   
